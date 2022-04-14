@@ -25,3 +25,13 @@ public class Assignment1
 	}
 
 }
+/* Screen Dump
+
+From: Mr. Wilson
+Adress: Acer Computer, Lab 314
+Date: April 14 2022
+To: Steven On
+Message: Help! I'm trapped inside a computer!
+
+ 
+ */
