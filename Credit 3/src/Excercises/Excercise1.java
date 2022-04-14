@@ -1,10 +1,10 @@
 package Excercises;
 
-public class Excercise1 {
-
-	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
+public class Excercise1
+{
+	  public static void main(String[] args) 
+	  {
+	    
+	System.out.println("Hello World");
+	  }
 	}
-
-}
