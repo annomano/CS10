@@ -25,6 +25,7 @@ public class Assignment1
 	}
 
 }
+
 /* Screen Dump
 
 From: Mr. Wilson
