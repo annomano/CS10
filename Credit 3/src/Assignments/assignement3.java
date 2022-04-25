@@ -17,11 +17,11 @@ public class assignement3
 	{
 		
 	       System.out.println("B     I     N     G     O");
-	       System.out.println("1     19    32    46    61");
-	       System.out.println("6     30    35    49    64");
-	       System.out.println("13    21    Free  52    69");
-	       System.out.println("16    27    42    58    71");
-	       System.out.println("9     23    45    60    75");
+	       System.out.println("2    20    42    60    64");
+	       System.out.println("14   25    32    55    70");
+	       System.out.println("5    18    Free  53    67");
+	       System.out.println("12   16    31    46    75");
+	       System.out.println("10   22    39    59    71");
 		
 	
 	}
@@ -31,11 +31,9 @@ public class assignement3
 /* Screen Dump
 
 B     I     N     G     O
-1     19    32    46    61
-6     30    35    49    64
-13    21    Free  52    69
-16    27    42    58    71
-9     23    45    60    75
-
- 
+2    20    42    60    64
+14   25    32    55    70
+5    18    Free  53    67
+12   16    31    46    75
+10   22    39    59    71
  */
