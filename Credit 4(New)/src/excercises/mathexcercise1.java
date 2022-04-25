@@ -9,9 +9,13 @@ public class mathexcercise1
 		int y = 10;
 		Math.max(x, y);
 
+		//
+		
 		int x = 16;
 		Math.sqrt(x);
 
+		//
+		
 		Math.random();
 
 	}
