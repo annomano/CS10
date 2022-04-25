@@ -8,12 +8,13 @@ public class mathexcercise1
 		int x = 5;
 		int y = 10;
 		Math.max(x, y);
-		
+
 		int x = 16;
 		Math.sqrt(x);
-		
+
 		Math.random();
 
 	}
-
+	
 }
+//This is just the math exercises compiled together
