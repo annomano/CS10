@@ -1,6 +1,6 @@
 /*
 
-Program: Assignment1.java          Date: 4/25/2022
+Program: Assignment6.java          Date: 4/25/2022
 
 
 Author: Steven On 
