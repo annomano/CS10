@@ -55,7 +55,7 @@ public class Assignment9
 	       System.out.print(" % ");
 	       System.out.print(integer1);
 	       System.out.print(" = ");
-	       System.out.println(answer3);
+	       System.out.println(answer4);
      
 		
 	}
