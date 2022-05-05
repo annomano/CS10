@@ -83,13 +83,7 @@ public class Assignment15
 What is: 23*25?  2341
 Wrong. The Correct answer is: 575
 
-/* Screen Dump
 
-What is: 2*39?
-78
-Right answer78
-
-n
  
  */
 
