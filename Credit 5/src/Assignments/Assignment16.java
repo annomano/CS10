@@ -14,14 +14,24 @@ Course: Computer Science 10
 package Assignments;
 
 import java.util.Scanner;
-
+import java.util.Random;
 
 public class Assignment16 
 {
 
 	public static void main(String[] args) 
 	{
-		Scanner userinput = new Scanner(System.in);
+		Random number = new Random();
+	   	int secret = number.nextInt(20) +1;
+	   	Scanner userinput = new Scanner(System.in);
+	   	System.out.println("Choose a number from one to twenty: ");
+	   	int player = userinput.nextInt();
+	   	System.out.println("Computer's number is: "+secret);
+	   	System.out.println("Player's number is: "+player);
+	   	if (secret==player)
+	       	System.out.println("You won!");
+	   	else
+	       	System.out.println("Better luck next time.");
 		
 		
 		
@@ -29,16 +39,17 @@ public class Assignment16
 
 }
 
-// I on team 5
+
 
 /* Screen Dump:
-
  
- prompt user to enter a number and save it
 
-use random number to generate it and save it
-
-dispaly both results and if right say congragulations.
+Choose a number from one to twenty: 
+7
+Computer's number is: 7
+Player's number is: 7
+You won!
  
  
  */
+ 
