@@ -103,7 +103,7 @@ public class FinalProject
 	}
 
 }
-/*
+/* Screen Dump
  Please enter the currency code
 1: Rupees
 2: US Dollar
